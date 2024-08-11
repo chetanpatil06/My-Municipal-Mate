@@ -59,14 +59,19 @@ export default function About() {
                 </div>
                 <div className="truck-det">
                     <div className="tagline-highlight-one">
-                        <span className="tagline-highlight">My Municipal Mate</span>
+                        <span className="tagline-highlight">{t('taglineOne')}</span>
                     </div>
-                    <div className="tagline-highlight-two">
+                    {/* <div className="tagline-highlight-two">
                         <span className="tagline-main">
                             Connecting communities with ease – My Municipal Mate brings
                         </span>
                         <span className="tagline-main-two">
                             municipal services into the digital age.
+                        </span>
+                    </div> */}
+                    <div className="tagline-highlight-two">
+                        <span className="tagline-main">
+                        {t('taglineTwo')}
                         </span>
                     </div>
                 </div>
@@ -142,7 +147,7 @@ export default function About() {
   <hr className="divider" />
 
   <div className="contact-section">
-    <p>Here you can add a little description about your contact section. It can include some general information or an introduction to the contact details.</p>
+    <p>For any site feedback and other review, use our social media handles or email us. We would like to hear from you!!!</p>
   </div>
 
   <hr className="divider" />
@@ -150,15 +155,15 @@ export default function About() {
   <div className="contact-section">
     <h2>Contact Us</h2>
     <address>
-      <p>1234 Street Name, City, Country</p>
-      <p>Email: <a href="mailto:contact@example.com">contact@example.com</a></p>
+      <p>ACTS-CDAC, Panchavati, Pashan- Pune</p>
+      <p>Email: <a href="mymunicipalmate.com">mymunicipalmate.com</a></p>
       <p>Phone: <a href="tel:+1234567890">+123 456 7890</a></p>
     </address>
   </div>
 </div>
 
 <div className="footer-container">
-  <p>&copy; 2024 Your Company Name. All rights reserved.</p>
+  <p>&copy; 2024 My Municipal Mate. All rights reserved.</p>
 </div>
 
  

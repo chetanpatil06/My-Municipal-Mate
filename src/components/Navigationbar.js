@@ -28,8 +28,8 @@ const Navigationbar = () => {
                         <li><Link to="/ContactUs">Contact Us</Link></li>
                         <li><Link to="/feed">Feeds</Link></li>
                         <button id="button"><Link to="/complain" id='button-link'>Complain</Link></button>
-                        <button onClick={() => changelanguage('en')}>English</button>
-                        <button onClick={() => changelanguage('hi')}>हिन्दी</button>
+                        <button id="button2" onClick={() => changelanguage('en')}>En</button>
+                        <button id="button3" onClick={() => changelanguage('hi')}>हि</button>
                     </ul>
                 </div>
                 <div id="nav-right">

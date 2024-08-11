@@ -159,3 +159,11 @@ body {
 .side-menu.show {
     transform: translateX(0); /* Slide in from the right */
 }
+#button2{
+    margin-left: 10px;
+    cursor: pointer;
+}
+#button3{
+    margin-left: 5px;
+    cursor: pointer;
+}
