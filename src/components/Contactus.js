@@ -13,11 +13,11 @@ export default function Contactus() {
     };
 
     const cards = [
-        { imgSrc: '/images/dev.jpg', name: 'Devkaran Singh', role: 'Frontend Dev', github: 'https://github.com/yourusername1', linkedin: 'https://linkedin.com/in/yourusername1' },
-        { imgSrc: '/images/dev.jpg', name: 'Devkaran Singh', role: 'Frontend Dev', github: 'https://github.com/yourusername1', linkedin: 'https://linkedin.com/in/yourusername1' },
-        { imgSrc: '/images/dev.jpg', name: 'Devkaran Singh', role: 'Frontend Dev', github: 'https://github.com/yourusername1', linkedin: 'https://linkedin.com/in/yourusername1' },
-        { imgSrc: '/images/dev.jpg', name: 'Devkaran Singh', role: 'Frontend Dev', github: 'https://github.com/yourusername1', linkedin: 'https://linkedin.com/in/yourusername1' },
-        { imgSrc: '/images/dev.jpg', name: 'Devkaran Singh', role: 'Frontend Dev', github: 'https://github.com/yourusername1', linkedin: 'https://linkedin.com/in/yourusername1' },
+        { imgSrc: '/images/Chetan.jpg', name: 'Chetan Patil', role: 'Frontend Dev', github: 'https://github.com/yourusername1', linkedin: 'https://linkedin.com/in/yourusername1' },
+        { imgSrc: '/images/Chetan.jpg', name: 'Chetan Patil', role: 'Frontend Dev', github: 'https://github.com/yourusername1', linkedin: 'https://linkedin.com/in/yourusername1' },
+        { imgSrc: '/images/Chetan.jpg', name: 'Chetan Patil', role: 'Frontend Dev', github: 'https://github.com/yourusername1', linkedin: 'https://linkedin.com/in/yourusername1' },
+        { imgSrc: '/images/Chetan.jpg', name: 'Chetan Patil', role: 'Frontend Dev', github: 'https://github.com/yourusername1', linkedin: 'https://linkedin.com/in/yourusername1' },
+        { imgSrc: '/images/Chetan.jpg', name: 'Chetan Patil', role: 'Frontend Dev', github: 'https://github.com/yourusername1', linkedin: 'https://linkedin.com/in/yourusername1' },
     ];
 
     return (
